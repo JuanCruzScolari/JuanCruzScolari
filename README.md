@@ -35,7 +35,7 @@ I am a **19-year-old Full Stack Developer** based in **Santa Fe, Argentina** �
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools used
 
 <p align="center">
   <a href="https://skillicons.dev">
