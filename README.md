@@ -47,10 +47,10 @@ I am a **19-year-old Full Stack Developer** based in **Santa Fe, Argentina** �
   <summary><b>🔥 Click to see my full detailed stack</b></summary>
   <br>
   
-  - ⚙️ **Backend & Architecture:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Gradle, Hexagonal Architecture, Modular Monoliths.<br>
-  - ⚛️ **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Responsive Design.<br>
+  - ⚙️ **Backend & Architecture:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Gradle, Maven <br>
+  - ⚛️ **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3.<br>
   - 🗄️ **Databases & DevOps:** PostgreSQL, MySQL, Docker, Docker Compose, Git.<br>
-  - 🤖 **Other Tools:** Postman, Claude Code, Vibe Coding, iText7 (PDF generation), AFIP Integrations.
+  - 🤖 **Other Tools:** Postman, Claude Code, iText7 (PDF generation).
 </details>
 
 <br>
@@ -78,7 +78,6 @@ This project demonstrates my ability to take complex business requirements and t
       - 🧾 <b>Price Label Module</b> (PDF generation) <br/>
       - 🏦 <b>Cash Management & Transfers</b> <br/>
       - 🔒 <b>Role-Based Security</b> <br/>
-      - 💼 <b>AFIP Integration</b> for local tax compliance
     </td>
   </tr>
 </table>
